@@ -1,0 +1,353 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+nav i{
+	margin-right:6px;
+	color:gray;
+	padding-left: 5px;
+}
+ul li a:hover{
+	color: rgb(141,151,166);
+}
+ ul li a{
+   font-family: "Montserrat";
+   text-align: center;
+   color: rgb(141,151,166);
+}
+
+
+.tab-content{
+	padding-bottom:20px;
+	max-width:552px;
+	width:100%;
+}
+nav button{
+	margin-left:15px;
+}
+#add a{
+	font-size: 16px;
+	color: rgb(44,169,233);
+	font-family: "Montserrat";
+}
+nav li{
+	border-left: 1px solid #d3d9db;
+}
+.begrImg{
+	background-image: url("images/background.jpg");
+	background-size:cover;
+	min-height:480px;
+}
+.headerset h1{
+	font-size: 48px;
+	line-height: 35px;
+	font-family: "Raleway";
+}
+.headerset h1{
+	padding-top:145px;
+	padding-bottom: 35px;
+}
+.headerset a{
+   font-family: "Raleway";
+   padding:22px;
+   font-size:30px;
+   text-decoration: none;
+   background-color: rgba(255,255,255,0);
+   border:2px solid #ffffff;
+}
+.graphics h1 {
+	font-size: 36px;
+	color: rgb(25,25,25);
+	font-family: "Raleway";
+	font-weight: bold;
+	padding-top: 70px;
+}
+.hd{
+	padding:60px 0px 20px 0px;
+	margin-bottom: 25px;
+	border-bottom: 1px solid gray;
+}
+.hd h5{
+	padding-left:5px;
+	font-size: 22px;
+	line-height: 30px;
+	color: rgb(94,94,94);
+	font-family: "Raleway";
+	font-weight: bold;
+}
+
+.card h2{
+	border-bottom: 1px solid #E7E7E7;
+	padding:0 12px 5px 12px ;
+	font-size: 18px;
+	line-height: 30px;
+	color: rgb(94,94,94);
+	font-family: "Raleway";
+}
+.graphics i{
+	padding:4px 6px 4px 6px;
+	border-radius:50%;
+}
+.line{
+	padding:12px 0px 16px 1px;
+	margin-right:4px;
+	background-color:#D1D1D1; 
+}
+.card p{
+	margin-top:8px;
+	font-size: 24px;
+	line-height: 22px;
+	color: rgb(64,64,64);
+	font-family: "Montserrat";
+	font-weight: 300;
+}
+.trainers{
+	margin-top:70px;
+	min-height: 270px;
+	font-size: 18px;
+	line-height: 22px;
+	color: rgb(255,255,255);
+	font-family: "Raleway";
+}
+
+.trainers h1{
+	padding-top:70px;
+	font-size: 30px;
+}
+.trainers a {
+	text-decoration: none;
+	border-radius: 3px;
+	font-size: 14px;
+    padding:8px;
+	font-family: "Montserrat";
+}
+.or{
+	padding-left:20px;
+	padding-right: 20px;
+	font-size: 14px;
+	font-family: "Montserrat";
+}
+.subcribe{
+	background-color: #E2E3E7;
+	min-height: 270px;
+	padding-top:45px;
+}
+.subcribe p{
+	color:grey;
+	font-size:16px;
+}
+.subcribe form{
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+.subcribe form input{
+	border-radius: 0px;
+}
+.subcribe h1{
+  font-size: 30px;
+  color: rgb(58,58,58);
+  font-family: "Raleway";
+}
+.fitclouds{
+	background-image: url("images/backgr2.png");
+	background-size:100% 100%;
+	padding-top:38px;
+	min-height:460px;
+}
+.fit{
+	margin-top:38px;
+}
+.fitclouds h3{
+	font-size: 18px;
+	line-height: 22px;
+	color: rgb(255,255,255);
+	font-family: "Raleway";
+}
+.fitclouds p{
+	font-size: 13px;
+	color: rgb(247,247,247);
+	font-family: "Raleway";
+	font-weight: 300;
+}
+.ourblog img{
+	padding-right:6px;
+}
+.about h3{
+	padding-bottom:10px; 
+}
+.ourblog a{
+	margin-top: 0px;
+	border-bottom: 1px solid white;
+}
+.ourblog a:hover{
+	text-decoration: none;
+}
+.ourblog p{
+	margin-bottom: 0px;
+}
+
+.about p,.ourblog a{
+	font-size: 14px;
+	font-family: "Raleway";
+	font-weight: 300;
+}
+.men{
+	padding-left:0px;
+	padding-right: 0px;
+}
+.fa fa-instagram{
+	font-size:18px;
+}
+.photo{
+	border:1px solid white;
+}
+.photo a,.photo1 a{
+	text-decoration:none;
+}
+.photo i{
+	font-size:14px;
+	padding:2px 2px 0px 2px;
+	color:#3757A5;
+	margin-right:4px;
+	background-color:white;
+}
+.photo p,.photo1 p{
+	font-size: 16px;
+	font-family: "Raleway";
+}
+.photo1 > div{
+	border-bottom:1px solid white;
+}
+.photo1 p{
+	padding-top:11px;
+}
+.logo{
+	padding:8px;
+}
+.like{
+	padding:5px 8px 5px 8px;
+	border-right:2px solid black;
+	background-color:#3757A5;
+}
+.logo div{
+	margin-left:10px;
+}
+footer{
+	min-height:120px;
+	background-color: #202B34
+}
+footer .men{
+	padding-top:50px;
+}
+footer li a{
+	font-size:12px;
+	padding:5px;
+
+}
+footer p{
+	font-size:12px;
+}
+footer a{
+	border-left:1px solid white;
+}
+.requiredInp {
+    border: 1px solid red;
+}
+
+
+@media screen and (max-width: 992px) {
+ .des,.ourblog,.follow,.connect{
+        margin: auto;
+    	margin-bottom:25px;
+    }
+
+}
+@media screen and (max-width: 768px) {
+
+}
+@media screen and (max-width:574px) {
+	.trainers{
+		margin-top:40px;
+		font-size: 16px;
+	}
+	.trainers h1{
+		text-align: center;
+		padding-top:25px;
+		margin-bottom: 15px;
+		font-size: 20px;
+	}
+	.trainers a{
+		font-size: 12px;
+		padding:5px;
+	}
+	.or{
+		padding:0px 8px 0px 8px;
+		font-size: 12px;
+	 }
+
+}
+@media screen and (max-width:720px) {
+	.headerset h1{
+		font-size: 25px;
+	}
+	.headerset a{
+	   padding:15px;
+	   font-size:18px;
+	}
+	 footer .men div{
+	 	margin-top:15px;
+	 	
+	 }
+}
+@media screen and (max-width:480px) {
+
+	#add a{
+		font-size: 14px;
+	}
+	#add img{
+		width:130px;
+	}
+	.graphics h1 {
+		font-size: 30px;
+		padding-top: 40px;
+	}
+	.hd{
+		padding-top:30px;
+	}
+	.hd h5{
+		font-size: 20px;
+		text-align: center;
+	}
+	.subcribe form{
+		margin-top: 25px;
+		margin-bottom: 20px;
+	}
+	.fitclouds h3{
+		text-align: center;
+		font-size: 18px;
+		line-height: 22px;
+		color: rgb(255,255,255);
+		font-family: "Raleway";
+	}
+	.fitclouds p{
+		font-size: 16px;
+	}
+	footer ul li a{
+		/*text-decoration: none;*/
+		text-align: center;
+	}
+	nav button{
+	margin-left:0px;
+	}
+}	
+ @media screen and (max-width:320px) {
+ 	.headerset h1{
+		font-size: 20px;
+	}
+	.headerset a{
+	   padding:13px;
+	   font-size:15px;
+	}
+	 
+ }
